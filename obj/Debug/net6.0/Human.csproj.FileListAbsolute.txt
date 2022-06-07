@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/bin/Debug/net6.0/Human
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/bin/Debug/net6.0/Human.deps.json
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/bin/Debug/net6.0/Human.runtimeconfig.json
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/bin/Debug/net6.0/Human.dll
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/bin/Debug/net6.0/Human.pdb
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.AssemblyInfo.cs
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.dll
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/refint/Human.dll
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.pdb
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/Human.genruntimeconfig.cache
+/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/Debug/net6.0/ref/Human.dll
