@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4KnUDCkMMTJ2vpEZTveg1uW0rTHO2HAaIn7FGe15gIHIopoNHZeZATtQ+wKiTTJRwjXOhczKB9PgqZ3vthz/g==",
+  "dgSpecHash": "ZT2i7mvNVUvSGY7wG44nFnRC/3z0pnCmc77nv3GMyL/RS9qRcCWmmX3DhQExVrsJQGoEhCqw31bCdHNMwrTrUQ==",
   "success": true,
-  "projectFilePath": "/Users/austin/Desktop/C#/Fundamentals/OOPHuman/Human.csproj",
+  "projectFilePath": "/Users/austin/Desktop/C#/Fundamentals/OOP/OOPHuman/Human.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

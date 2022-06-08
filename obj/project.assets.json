@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/austin/Desktop/C#/Fundamentals/OOPHuman/Human.csproj",
+      "projectUniqueName": "/Users/austin/Desktop/C#/Fundamentals/OOP/OOPHuman/Human.csproj",
       "projectName": "Human",
-      "projectPath": "/Users/austin/Desktop/C#/Fundamentals/OOPHuman/Human.csproj",
+      "projectPath": "/Users/austin/Desktop/C#/Fundamentals/OOP/OOPHuman/Human.csproj",
       "packagesPath": "/Users/austin/.nuget/packages/",
-      "outputPath": "/Users/austin/Desktop/C#/Fundamentals/OOPHuman/obj/",
+      "outputPath": "/Users/austin/Desktop/C#/Fundamentals/OOP/OOPHuman/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/austin/.nuget/NuGet/NuGet.Config"

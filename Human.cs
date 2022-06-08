@@ -1,13 +1,13 @@
-namespace OOPHuman
-{
-  class Human
+// namespace OOPHuman;
+
+  public class Human
   {
       // Properties for Human
-      public string Name {get; set; }
-      public int Strength {get; set; }
-      public int Intelligence {get; set; }
-      public int Dexterity {get; set; }
-      public int Health {get; set; }
+      public string Name;
+      public int Strength;
+      public int Intelligence;
+      public int Dexterity;
+      public int Health;
       // Add a constructor that takes a value to set Name, and set the remaining fields to default values
       public Human(string humanName)
       {
@@ -18,16 +18,16 @@ namespace OOPHuman
         Health = 100;
       }
       // Add a constructor to assign custom values to all fields
-      public Human(string humanName, int str, int intel, int Dex, int hp)
+      public Human(string humanName, int str, int intel, int dex, int hp)
       {
         Name = humanName;
         Strength = str;
         Intelligence = intel;
-        Dexterity = Dex;
+        Dexterity = dex;
         Health = hp;
       }
       // Build Attack method
-      public int Attack(Human target)
+      public virtual int Attack(Human target)
       {
         int atk = Strength * 5;
         target.Health -= atk;
@@ -37,5 +37,5 @@ namespace OOPHuman
       }
   }
 
-}
+
 
